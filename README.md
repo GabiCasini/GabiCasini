@@ -1,4 +1,5 @@
-### Hey, everyone!!
+### Olá!
+Sou Gabriela e aqui estão meus principais projetos acadêmicos feitos durante minha graduação em Ciência da Computação pela Universidade Federal Fluminense.
 
 <!--
 **GabiCasini/GabiCasini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
